@@ -1,0 +1,4 @@
+tweepy
+Flask
+gunicorn
+python-dotenv

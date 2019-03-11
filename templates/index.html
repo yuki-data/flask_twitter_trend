@@ -1,0 +1,12 @@
+{% extends "index_base.html" %}
+
+{% block content %}
+
+<h5 class="text-center">{{ trend.location }}のトレンド</h5>
+<ol class="list-group">
+  {% for rank in trend.rank %}
+  <li class="list-group-item"><span class="rank-num">{{ rank.number }}</span>{{ rank.topic_name }}</li>
+  {% endfor %}
+</ol>
+
+{% endblock %}
