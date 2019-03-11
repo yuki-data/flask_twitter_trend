@@ -1,0 +1,3 @@
+# flask_twitter_trend
+twitter APIによりツイッターのトレンドを取得し、日本でのトレンドランキングを表示する簡単なwebサイトです。
+webアプリケーションの作成にFlaskを使っています。
