@@ -1,3 +1,6 @@
 # flask_twitter_trend
-twitter APIによりツイッターのトレンドを取得し、日本でのトレンドランキングを表示する簡単なwebサイトです。
-webアプリケーションの作成にFlaskを使っています。
+日本でのツイッターのトレンドランキングを表示する簡単なwebサイトです。
+現在、herokuにて公開中です: https://twitter-trending-topics.herokuapp.com/
+
+twitter APIによりツイッターのトレンドを取得しています。
+webアプリケーションの作成にはFlaskを使っています。
